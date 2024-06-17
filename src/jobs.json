@@ -1,0 +1,86 @@
+[
+    {
+        "id": "1",
+        "title": "Senior Photographer",
+        "type": "Full-Time",
+        "description": "We are seeking a talented Photographer to join our team in New York, NY. The ideal candidate will have strong skills in photography, photo editing, and a keen eye for detail. Experience with various photography styles and professional equipment is required.",
+        "location": "New York, NY",
+        "salary": "$70K - $80K",
+        "company": {
+            "name": "Creative Lens Studios",
+            "description": "Creative Lens Studios is a leading photography company specializing in commercial, portrait, and event photography. We pride ourselves on delivering high-quality images and services to our clients while fostering a collaborative and innovative work environment.",
+            "contactEmail": "contact@creativelens.com",
+            "contactPhone": "555-555-5555"
+        }
+    },
+    {
+        "id": "2",
+        "title": "Music Executive",
+        "type": "Full-Time",
+        "location": "Los Angeles, CA",
+        "description": "Join our team as a Music Executive in Los Angeles, CA. We are looking for a motivated individual with a passion for the music industry and strong leadership skills. Experience with artist management and music production is highly desirable.",
+        "salary": "$90K - $100K",
+        "company": {
+            "name": "Harmony Records",
+            "description": "Harmony Records is a creative agency specializing in music production and artist management. Our team is dedicated to discovering and nurturing new talent while pushing the boundaries of creativity and innovation.",
+            "contactEmail": "contact@harmonyrecords.com",
+            "contactPhone": "555-555-5555"
+        }
+    },
+    {
+        "id": "3",
+        "title": "Cinematographer",
+        "type": "Full-Time",
+        "location": "Los Angeles, CA",
+        "description": "Are you passionate about filmmaking? Join our team in vibrant Los Angeles, CA, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+        "salary": "$80K - $90K",
+        "company": {
+            "name": "Visionary Films",
+            "description": "Visionary Films is a leading production company specializing in feature films, commercials, and documentaries. With a focus on storytelling and visual excellence, we are committed to delivering cutting-edge productions.",
+            "contactEmail": "contact@visionaryfilms.com",
+            "contactPhone": "555-555-5555"
+        }
+    },
+    {
+        "id": "4",
+        "title": "Fashion Stylist",
+        "type": "Part-Time",
+        "description": "Join our team as a Part-Time Fashion Stylist in beautiful Phoenix, AZ. We are looking for a self-motivated individual with a passion for fashion and creating stylish looks. This position offers flexible hours and the opportunity to work remotely.",
+        "location": "Phoenix, AZ",
+        "salary": "$50K - $60K",
+        "company": {
+            "name": "Trendsetters Inc.",
+            "description": "Trendsetters Inc. is a dynamic fashion company specializing in styling and fashion consulting. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+            "contactEmail": "contact@trendsetters.com",
+            "contactPhone": "555-555-5555"
+        }
+    },
+    {
+        "id": "5",
+        "title": "A&R Specialist",
+        "type": "Full-Time",
+        "description": "Exciting opportunity for a Full-Time A&R Specialist in bustling Nashville, TN. We are seeking a talented individual with a passion for discovering new music talent and helping artists develop their careers. Join our team and make an impact!",
+        "location": "Nashville, TN",
+        "salary": "$70K - $80K",
+        "company": {
+            "name": "Starbound Music",
+            "description": "Starbound Music is a rapidly growing music company specializing in artist development and music production. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+            "contactEmail": "contact@starboundmusic.com",
+            "contactPhone": "555-555-5555"
+        }
+    },
+    {
+        "id": "6",
+        "title": "Event Photographer",
+        "type": "Full-Time",
+        "description": "Join our team as an Event Photographer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us capture unforgettable moments at various events. Competitive salary and great benefits package available.",
+        "location": "Portland, OR",
+        "salary": "$60K - $70K",
+        "company": {
+            "name": "Momentous Events",
+            "description": "Momentous Events is a leading event photography company specializing in capturing high-quality images at corporate events, weddings, and social gatherings. We are committed to providing our clients with exceptional service and our employees with a supportive and rewarding work environment.",
+            "contactEmail": "contact@momentousevents.com",
+            "contactPhone": "555-555-5555"
+        }
+    }
+]
